@@ -1,2 +1,2 @@
 # mozilla
-site texte 
+site for text
